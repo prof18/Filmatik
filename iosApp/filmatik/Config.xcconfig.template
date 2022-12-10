@@ -1,0 +1,12 @@
+//
+//  Config.xcconfig.xcconfig
+//  Filmatik
+//
+//  Created by Marco Gomiero on 07.12.22.
+//  Copyright © 2022 orgName. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+TMDB_KEY=db-<your-api-key>
