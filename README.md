@@ -49,6 +49,7 @@ tmdbKey=<your-api-key>
 - [Ktor](https://ktor.io/)
 - [Kotlin Serialization](https://github.com/Kotlin/kotlinx.serialization)
 - [Kermit](https://github.com/touchlab/Kermit)
+- [KMP-NativeCoroutines](https://github.com/rickclephas/KMP-NativeCoroutines)
 - [Jetpack Compose](https://developer.android.com/jetpack/compose)
 - [Coil](https://github.com/coil-kt/coil)
 - [Koin](https://insert-koin.io/)
