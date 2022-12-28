@@ -1,7 +1,8 @@
 # Filmatik
 
-Filmatik shows you some popular movies of the moment. This project is a minimal Kotlin Multiplatform 
-project that I use to experiment with this technology. It is heavily inspired on
+
+Filmatik is a minimal Kotlin Multiplatform project that shows some popular movies of the moment.
+This project is a playground that I use to experiment with this technology. It is heavily inspired on
 [Filmatic](https://github.com/prof18/Filmatic), my other playground application that I use
 to catch up with modern Android development.
 
@@ -29,7 +30,8 @@ In order to build the iOS project, you will need to add a `Config.xcconfig` file
 
 ### API key:
 
-If you want to run the app, you get a TMDB API Key [here](https://www.themoviedb.org/settings/api). 
+If you want to run the app, you get to get a TMDB API Key [here](https://www.themoviedb.org/settings/api).
+For iOS, you need to place it in the Config.xcconfig file created above:
 
 ```xcconfing
 TMDB_KEY=<your-api-key>
