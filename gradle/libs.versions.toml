@@ -26,7 +26,7 @@ versions-ben-manes = "0.44.0"
 viewModel-ktx = "2.5.1"
 kotlinx-serialization= "1.4.0"
 native-coroutines = "0.13.1"
-androidx-compose-material3 = "1.0.0-rc01"
+androidx-compose-material3 = "1.2.1"
 
 [libraries]
 androidx-activity-activity-compose = { module = "androidx.activity:activity-compose", version.ref = "activity-compose" }
